@@ -31,3 +31,13 @@ Crie um programa com 2 valores do tipo **`double`** já declarados que retorne:
 <aside>
 💡 Você pode ir além e permitir que o usuário insira dois números aleatórios!
 </aside>
+
+## Exercício 4
+
+Crie um programa em que o usuário digita uma ou mais palavras e é exibido a quantidade de caracteres que a palavra inserida tem.
+
+### Dica 👀
+
+<aside>
+💡 Você pode fazer uma verificação e incrementar o contador apenas **se** for um caractere, ignorando os espaços caso o usuário digite mais que uma palavra, por exemplo.
+</aside>
