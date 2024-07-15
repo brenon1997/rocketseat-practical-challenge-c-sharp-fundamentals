@@ -39,5 +39,14 @@ Crie um programa em que o usuário digita uma ou mais palavras e é exibido a qu
 ### Dica 👀
 
 <aside>
-💡 Você pode fazer uma verificação e incrementar o contador apenas **se** for um caractere, ignorando os espaços caso o usuário digite mais que uma palavra, por exemplo.
+💡 Você pode fazer uma verificação e incrementar o contador apenas **`se`** for um caractere, ignorando os espaços caso o usuário digite mais que uma palavra, por exemplo.
 </aside>
+
+## Exercício 5
+
+Crie um programa em que o usuário precisa digitar a placa de um veículo e o programa verifica se a placa é válida, seguindo o padrão brasileiro válido até 2018:
+- A placa deve ter 7 caracteres alfanuméricos;
+- Os três primeiros caracteres são letras (maiúsculas ou minúsculas);
+- Os quatro últimos caracteres são números;
+    
+Ao final, o programa deve exibir **`Verdadeiro`** se a placa for válida e **`Falso`** caso contrário.
