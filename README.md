@@ -18,3 +18,16 @@ Caso não encontre, vou deixar uma dica aqui embaixo!
 ## Exercício 2
 
 Crie um programa que concatene um nome e um sobrenome inseridos pelo usuário e ao final exiba o nome completo.
+
+## Exercício 3
+
+Crie um programa com 2 valores do tipo **`double`** já declarados que retorne:
+- A soma entre esses dois números;
+- A subtração entre os dois números;
+- A multiplicação entre os dois números;
+- A divisão entre os dois números (vale uma verificação se o segundo número é 0!);
+- A média entre os dois números.
+
+<aside>
+💡 Você pode ir além e permitir que o usuário insira dois números aleatórios!
+</aside>
