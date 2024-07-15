@@ -14,3 +14,7 @@ Caso não encontre, vou deixar uma dica aqui embaixo!
 <aside>
 💡 O método para ler os dados que um usuário digita é o **`Console.ReadLine();`**
 </aside>
+
+## Exercício 2
+
+Crie um programa que concatene um nome e um sobrenome inseridos pelo usuário e ao final exiba o nome completo.
