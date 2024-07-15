@@ -50,3 +50,10 @@ Crie um programa em que o usuário precisa digitar a placa de um veículo e o pr
 - Os quatro últimos caracteres são números;
     
 Ao final, o programa deve exibir **`Verdadeiro`** se a placa for válida e **`Falso`** caso contrário.
+
+## Exercício 6
+Crie um programa que solicita ao usuário a exibição da data atual em diferentes formatos:
+- Formato completo (dia da semana, dia do mês, mês, ano, hora, minutos, segundos).
+- Apenas a data no formato "01/03/2024".
+- Apenas a hora no formato de 24 horas.
+- A data com o mês por extenso.
